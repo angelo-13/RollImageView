@@ -5,3 +5,5 @@
 演示文件如下
 
 可以修改任何参数
+
+![](https://github.com/HuRuWo/RollImageView/blob/master/ezgif.com-optimize.gif?raw=true)
